@@ -1,4 +1,5 @@
 type: code
+custom_name: E ** x minus one
 files:
 - name: main.py
   visible: true
@@ -6,14 +7,14 @@ files:
     # place `import` statement at top of the program
 
 
-    # don't modify this code or variable `x` may not be available
+    # don't modify this code, otherwise, `x` may not be available
     x = int(input())
 
-    # use factorial() here
+    # use expm1() here
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/6022#comment
+feedback_link: https://hyperskill.org/learn/step/7176#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: Thu, 10 Dec 2020 16:13:46 UTC
+  time: Thu, 10 Dec 2020 16:25:03 UTC
 record: -1

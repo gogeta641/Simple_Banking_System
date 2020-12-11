@@ -6,14 +6,14 @@ files:
     # place `import` statement at top of the program
 
 
-    # don't modify this code or variable `x` may not be available
-    x = int(input())
+    # don't modify this code or variable `n` may not be available
+    n = int(input())
 
-    # use factorial() here
+    # put your code here
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/6022#comment
+feedback_link: https://hyperskill.org/learn/step/7178#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: Thu, 10 Dec 2020 16:13:46 UTC
+  time: Thu, 10 Dec 2020 16:18:43 UTC
 record: -1
